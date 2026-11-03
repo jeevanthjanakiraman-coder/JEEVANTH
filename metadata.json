@@ -1,0 +1,8 @@
+{
+  "name": "Jeevanth AI ",
+  "description": "Full-stack AI workspace and developer API powered by Google Gemini, featuring real-time conversational chat, AI studio tools, and interactive API documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
